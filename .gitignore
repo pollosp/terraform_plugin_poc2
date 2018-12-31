@@ -1,0 +1,5 @@
+vendor
+*.tfstate*
+plugins/
+.terraform
+Gopkg.lock
